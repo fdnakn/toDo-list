@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    text-align: center;
+    margin-top: 150px;
+}
+#title{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+#inputtext{
+    width: 300px;
+    height: 46px;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+    border: 3px solid orange;
+    color: black;
+    text-align: center;
+}
+
+#addtodo{
+    height: 45px;
+    width: 80px;
+    border: 3px solid orange;
+    vertical-align: middle;
+    outline: none;
+    font-size: 25px;
+    cursor: pointer;
+}
+#cleartodo{
+    height: 45px;
+    width: 80px;
+    border: 3px solid orange;
+    vertical-align: middle;
+    outline: none;
+    font-size: 25px;
+    cursor: pointer;
+}
+.p-style{
+    margin: 5px;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 30px;
+    color: black;
+}
